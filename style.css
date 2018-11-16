@@ -72,6 +72,7 @@ nav h1{
 
 nav div{
 	display: flex;
+	flex-wrap: wrap;
 }
 
 nav div a{
