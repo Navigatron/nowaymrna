@@ -112,7 +112,16 @@ main p{
 	line-height: 1.7rem;
 	font-family: 'Roboto', sans-serif;
 	margin: 1rem 0;
-	text-indent: 2rem;
+}
+
+main ul{
+	margin: 1rem;
+}
+
+main ul li{
+	font-size: 1.2rem;
+	line-height: 1.7rem;
+	font-family: 'Roboto', sans-serif;
 }
 
 figure{
@@ -153,4 +162,11 @@ footer{
 	padding: 1rem;
 	font-size: 1rem;
 	margin-top: 1rem;
+}
+
+.jump{
+	display: block;
+	position: relative;
+	top: -4rem;
+	visibility: hidden;
 }
