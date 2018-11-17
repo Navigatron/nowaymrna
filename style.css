@@ -62,6 +62,7 @@ nav{
 	color: white;
 	font-family: 'Roboto', sans-serif;
 	flex-wrap: wrap;
+	z-index: 3; /*Keep video player controls below sticky header*/
 }
 
 nav h1{
