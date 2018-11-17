@@ -121,14 +121,27 @@ figure{
 	box-shadow: -6px 6px 0px -2px hsla(33, 87%, 47%, 0.4);
 }
 
-figure img{
+.centerme{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.vidfig{
 	max-width: 100%;
-	border-bottom: 4px dashed black;
+	display: inline-block;
+}
+
+figure img, figure video{
+	display: block;
+	max-width: 100%;
 }
 
 figcaption{
 	padding: 1rem;
+	border-top: 2px dashed black;
 	text-align: center;
+	background-color: hsla(33, 87%, 47%, 0.1);
 }
 
 footer{

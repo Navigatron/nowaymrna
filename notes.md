@@ -12,9 +12,23 @@ https://www.britannica.com/science/messenger-RNA
 
 Dna is copied into mRNA
 
-
-
 # What is mRNA splicing
+
+Video by North Dakota State University:
+
+https://www.youtube.com/watch?v=FVuAwBGw_pQ
+
+Video is 2 minutes long, explains the process pretty okay.
+
+Here's a shorter, clearer video:
+<source src="http://content.dnalc.org/content/c16/16938/3d-splicing-audio-title.mp4" type="video/mp4">
+
+Bonus, transcript is here:
+
+https://www.dnalc.org/resources/3d/rna-splicing.html
+
+Above link - After 
+
 
 
 # What goes wrong?
