@@ -2,6 +2,16 @@
 TODO
 
 # What is mRNA
+https://www.nature.com/scitable/topicpage/translation-dna-to-mrna-to-protein-393
+
+Above is source for figure 1
+
+mRNA = messenger RNA, takes data from DNA, moves to ribosome which makes proteins
+
+https://www.britannica.com/science/messenger-RNA
+
+Dna is copied into mRNA
+
 
 
 # What is mRNA splicing
